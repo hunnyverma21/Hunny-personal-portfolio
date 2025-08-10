@@ -1,0 +1,28 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+  height: 740px;
+}
+.techstack {
+  height: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.lang {
+  background-color: black;
+  height: 300px;
+  width: 400px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  box-shadow: 0 0 8px rgba(255, 254, 254, 0.5);
+}
+
+.tsi {
+  height: 200px;
+  border-radius: 12px;
+}
